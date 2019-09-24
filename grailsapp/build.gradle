@@ -62,6 +62,8 @@ dependencies {
 
     compile 'com.agorapulse.bug.grailsmn:mnlib:0.1'
     compile 'com.agorapulse:micronaut-grails:1.2.2'
+    compile group: 'io.projectreactor', name: 'reactor-core', version: '3.2.11.RELEASE'
+
 }
 
 bootRun {

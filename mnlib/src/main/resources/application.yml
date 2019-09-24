@@ -1,3 +1,6 @@
 micronaut:
   application:
     name: mnlib
+
+redis:
+  uri: redis://localhost
