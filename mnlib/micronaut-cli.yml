@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mnlib
+---
+testFramework: junit
+sourceLanguage: java
